@@ -19,10 +19,13 @@ Using advanced computer vision techniques, the Stay Awake App monitors your eyes
 ### Installation & Usage
 1. Clone the repository:
    ```shell
-   git clone https://github.com/Abdessamadae/stay-awake-app.git```
-2. Run: ```pip install opencv-python mediapipe pygame ```
-3. Run:
-    ```python wakeup_alert.py```
+   git clone https://github.com/Abdessamadae/stay-awake-app.git
+2. Run:
+   ```bash
+   pip install opencv-python mediapipe pygame
+4. Run:
+    ```bash
+    python wakeup_alert.py
 
 ### Customization
 You can customize the following parameters within the script:
